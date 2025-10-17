@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: /, s: '?'}
-  - {t: \, s: '|'}
+  - {t: \, h: '$$mdi:apple-keyboard-control$$', s: '|'}
   - A
   - S
   - D
@@ -39,7 +39,7 @@ layers:
   - K
   - L
   - {t: ;, s: ':'}
-  - {t: '''', s: '"'}
+  - {t: '''', h: '$$mdi:apple-keyboard-control$$', s: '"'}
   - $$mdi:apple-keyboard-shift$$
   - Y
   - X
@@ -91,7 +91,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: \, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
