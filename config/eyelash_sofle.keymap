@@ -38,9 +38,13 @@
     };
     macros {
         e_grave:e_grave {
-            compatible = "zmk, behavior-macro";
+            compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&macro_unicode 0x00E8>;
+            bindings 
+                = <&macro_press &kp RALT>
+                , <&macro_tap &kp GRAVE &kp E>
+                ,<&macro_release &kp RALT>
+                ;
         };
 
     };
