@@ -54,7 +54,7 @@ layers:
   - {t: '-', s: _}
   - {t: '=', h: '$$mdi:apple-keyboard-shift$$', s: +}
   - $$mdi:volume-off$$
-  - $$mdi:apple-keyboard-control$$
+  - {t: '`', h: '$$mdi:apple-keyboard-control$$', s: '~'}
   - $$mdi:apple-keyboard-command$$
   - '1'
   - {t: '$$mdi:keyboard-return$$', h: AltGr+`}
