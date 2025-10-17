@@ -116,7 +116,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: ;, s: ':'}
   - {t: Sft+;, s: 'Sft+:'}
-  - '&LS(MINUS)'
+  - {t: Sft+-, s: Sft+_}
   - {t: Sft+=, s: Sft++}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
