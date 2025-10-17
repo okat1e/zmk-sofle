@@ -43,7 +43,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - Y
   - X
-  - C
+  - {t: C, h: 'AltGr+,'}
   - V
   - B
   - $$mdi:arrow-right-bold$$
