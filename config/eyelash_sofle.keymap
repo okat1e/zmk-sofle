@@ -70,7 +70,7 @@
 &trans      &trans     &trans     &trans       &trans      &trans     &kp UP       &trans     &trans    &trans      &kp LS(N9)     &kp LS(N0)     &kp DEL
 &trans      &trans     &kp UP     &trans       &trans      &trans     &kp DOWN     &trans     &trans     &trans      &trans         &trans         &kp LS(1)
 &trans      &kp LEFT   &kp DOWN   &kp RIGHT    &trans      &trans     &kp LEFT     &trans     &trans     &trans      &trans         &kp LS(APOS)   &kp LS(BSLH)
-&trans      &trans     &trans     &trans       &trans      &trans     &kp RIGHT    &trans     &trans     &kp SEMI    &kp LS(SEMI)   &LS(MINUS)     &kp LS(EQUAL)
+&trans      &trans     &trans     &trans       &trans      &trans     &kp RIGHT    &trans     &trans     &kp SEMI    &kp LS(SEMI)   &kp LS(MINUS)     &kp LS(EQUAL)
 &trans      &trans     &trans     &trans       &trans      &trans     &kp ENTER    &trans     &trans     &trans      &trans      &trans
             >;
 
