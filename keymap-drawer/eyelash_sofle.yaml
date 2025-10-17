@@ -54,11 +54,11 @@ layers:
   - {t: '-', s: _}
   - {t: '=', h: '$$mdi:apple-keyboard-shift$$', s: +}
   - $$mdi:volume-off$$
-  - {t: '`', h: '$$mdi:apple-keyboard-control$$', s: '~'}
+  - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
   - '1'
-  - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-option$$'}
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-return$$', h: AltGr+`}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-option$$'}
