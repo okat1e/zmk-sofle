@@ -40,7 +40,7 @@
         e_grave:e_grave {
             compatible = "zmk, behavior-macro";
             #binding-cells = <0>;
-            bindings = <&macro_unicode 0x00E8>
+            bindings = <&macro_unicode 0x00E8>;
         };
 
     };
